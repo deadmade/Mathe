@@ -1,0 +1,1284 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "99a5bfb0-c592-11ee-b787-f2a0fc844426",
+    "deck_config_uuid": "4749c275-c590-11ee-a7ca-f2a0fc844426",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "4749c275-c590-11ee-a7ca-f2a0fc844426",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "fsrsWeights": [],
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Standard",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 150
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 1500
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": false,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "paste-0fd914fac80f75a8b3ea4cac1a8c8e2b556fd220.jpg",
+        "paste-125bb0f04ab68e23c523323b3debc2bf5016fc90.jpg",
+        "paste-13435a1a3e05afbf350e0bb66490f4e492ec3c11.jpg",
+        "paste-1468350c79e6d591cb873fc78a1f3774ec28aa98.jpg",
+        "paste-1482e53f586b5efc017d1b0188bed464ed0108ec.jpg",
+        "paste-1b51e4fe0337c3002165ecb63990e24f29ae0d6b.jpg",
+        "paste-208fd2edd3ab2605ef88a21828033256bc2b3330.jpg",
+        "paste-21a023db291352b161dc1bb35da656189da5f618.jpg",
+        "paste-2965975e0b9a4f0ab2733fe06a091eea67c5e1c4.jpg",
+        "paste-2ecde81fd5c2cf9b4d9a1ddfbebb6d99be3bf100.jpg",
+        "paste-2fc8b1816b87b8c9d6b3f1fd60a00a59628ab552.jpg",
+        "paste-307813088be6acb3e57aa59a8806cdb564841441.jpg",
+        "paste-344e160d22bd509a661149cbafaae3708b5c5a99.jpg",
+        "paste-36cb9880f45e112e46c022caa35720703f4c527e.jpg",
+        "paste-38fee12be96195bd202ea88da6b18e3576f603e0.jpg",
+        "paste-3ab8fdc3fa1e1f5b950444030fc9ec94f1f1d55a.jpg",
+        "paste-3b5ba5c50d7615c3ab047d3122b7b74765c8352d.jpg",
+        "paste-3bb6fc6f441e4c45ea6d7d5d7160c4f7e13f4d1d.jpg",
+        "paste-3ccb8a4126168ef5dd5753763e383966920fb478.jpg",
+        "paste-40c96d2460a2732276cfaf1dc1d7fef8961539b3.jpg",
+        "paste-414f75b87d10128a4c343b084f33d0b4de72b8ce.jpg",
+        "paste-45d8c74b66dad618293c65178732a055bc5d5c35.jpg",
+        "paste-468c4aff5a9089371fc80dc49b563839f3d757ca.jpg",
+        "paste-470f052be5c300e0e0a56181b8581abea69ac089.jpg",
+        "paste-5454ffffb10aca5d29449ce4b48ca0ee425acf65.jpg",
+        "paste-54a570d829223c174f27eb1f4ecd1c8ae71ead9c.jpg",
+        "paste-558bf34114e27a914599bf38a0d646cf971f59eb.jpg",
+        "paste-595709afcc67c0a923f3c04bbde999e87d8d77e8.jpg",
+        "paste-5f4098221705cb5cd34f9d4ce15a1fd268b82a8a.jpg",
+        "paste-63c1f00c8573d65628f3f48fbf2755f5d9cf5ca8.jpg",
+        "paste-6476aee748aafff2a6afdd6afa28759c7e33b5d1.jpg",
+        "paste-66341160b41aac63d2387c3d7a758125b792f1fa.jpg",
+        "paste-68143cfa3fc7e442b9d984313e1040d5f89f4aae.jpg",
+        "paste-68d0b8b284ffcc747e8ad25e6a0656dc8da72092.jpg",
+        "paste-69c24612642477b473bf871c3bb6f6ffee303032.jpg",
+        "paste-6c8f3d0cbfd096d858d4a4740c978ecff7c76bff.jpg",
+        "paste-6dc5ff530e959e9e87305044795ab5c59adc2189.jpg",
+        "paste-6e65b059c95c07f2fbe1968a105bda9f48f31c45.jpg",
+        "paste-6e93ba35b61fa70868fb62c3e650f2a289979d9b.jpg",
+        "paste-708a93eb3ad2967523a6a5c7a96869b572363c9a.jpg",
+        "paste-77947f3288b8c83384c25cf1b36b1a63d2674a73.jpg",
+        "paste-78828043eff80a21471c9bb6b4963c85070d571e.jpg",
+        "paste-7efc0bf505989ddd4275743c8de05ba3c15eec5b.jpg",
+        "paste-82589eec682c7adaab46d1df75188072f9d7b5ba.jpg",
+        "paste-84f4c0dcf1db7e5aece95f78102c487ad201a9cd.jpg",
+        "paste-8926b1fc41c80299fda3d058184aeeb9428e453d.jpg",
+        "paste-8c6b92209ad3dfc0a467b95f728a4b590c155862.jpg",
+        "paste-93089c2837ce73bd690eb9cc40d11abefcb83bf7.jpg",
+        "paste-96b04bc52cfe1cf7eca065807fe678c0d3008b03.jpg",
+        "paste-9769ad60b459072cd1908dd39ed9247567db239b.jpg",
+        "paste-987534456d3e86d16d07596564f6b566815f0897.jpg",
+        "paste-9ba4dc8f9533d10e733276289fa61192f8911704.jpg",
+        "paste-a15c16d2deb51d3747580a0e30392f6b744e2bdf.jpg",
+        "paste-a2b7dc5ea99c04d0e3fe71476b34f4604e097783.jpg",
+        "paste-a5c8a2a74a4fe701318e8cef38736a07b84d0384.jpg",
+        "paste-b1369ef1aea1b4763fef227de4d299987147a52d.jpg",
+        "paste-b15931a6882e2f58e0afc41f16ab1b1d89681fa0.jpg",
+        "paste-b3997b5bf94684db1049669044f12bc026b787e4.jpg",
+        "paste-c0049a03548af99ab96a86ae395184d84bf6b80b.jpg",
+        "paste-c34f004e2d9c53dcef576af4d148b762de3ff83b.jpg",
+        "paste-c70a81919cc71dc2aa38dd32a5d39a3ff71228c2.jpg",
+        "paste-c74717344c875b7d79bbcee46f687371b945b4be.jpg",
+        "paste-ca49f5d93f28e08851d19b70e013e16920b9f7aa.jpg",
+        "paste-ca89c46bc95b6462f6f8d8c00bedd87b1c035477.jpg",
+        "paste-d90b96ff5f68e9c1caf55feea663a385d2f12a88.jpg",
+        "paste-ded792c81173aea5c49e0662bef8d099da5858b0.jpg",
+        "paste-df999f85e86b484120ad719f8ddcb5f7396659e0.jpg",
+        "paste-e02411b6e9681c8a1923b72de66ba33432a2d512.jpg",
+        "paste-e40bd385bcf4ecb34a29b16035ea2b6c4a7ffe04.jpg",
+        "paste-ea20937d7fe991289fe8fe69778920e013b3d6ab.jpg",
+        "paste-eab0bce4ba9856827e029af9d3049f743059861e.jpg",
+        "paste-efabf9a7b931880ebfb013e2bf038fc5171d7c33.jpg",
+        "paste-f24886a11f7edcd13a570c745e4a9df37ca467b1.jpg",
+        "paste-f3b4825fa18187befd72a0be1f04f4ca9b4382b7.jpg",
+        "paste-fa5024138d971671348fdb73a255499bd48fdc98.jpg",
+        "paste-fcc37ce6ae054afc78973d8e62a0a0dd8e6935a0.jpg"
+    ],
+    "name": "Mathe",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Vorderseite",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Rückseite",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Einfach",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": null,
+                    "name": "Karte 1",
+                    "ord": 0,
+                    "qfmt": "{{Vorderseite}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist eine Aussage?",
+                "Es ist ein Satz, der wahr oder falsch sein kann"
+            ],
+            "guid": "if+y7&BcV8",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist keine Aussage?",
+                "Ein Satz dem kein Wahrheitswert zugeordnet werden kann ist keine Aussage"
+            ],
+            "guid": "edDaKBv!u!",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel Aussage",
+                "<ul><li>Es regnet heute</li></ul>"
+            ],
+            "guid": "A~HSo(jeTh",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind Umgangssprache Aussagen",
+                "und oder"
+            ],
+            "guid": "j;w~|@}gQT",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie beziechnen wir Aussagen?",
+                "<ul><li>a</li><li>b</li><li>c&nbsp;</li></ul>"
+            ],
+            "guid": "oMzU{%g6_b",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie kann man sagen, das eine Aussage falsch ist?",
+                "<img src=\"paste-2ecde81fd5c2cf9b4d9a1ddfbebb6d99be3bf100.jpg\">"
+            ],
+            "guid": "F/GXla,_SC",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Aussage UND Verküpfung",
+                "<img src=\"paste-ded792c81173aea5c49e0662bef8d099da5858b0.jpg\">"
+            ],
+            "guid": "kgy!U%/3^(",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Aussage ODER Verküpfung",
+                "<img src=\"paste-45d8c74b66dad618293c65178732a055bc5d5c35.jpg\">"
+            ],
+            "guid": "f`2ASB:#Dv",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Aussage ENTWEDER-ODER Verknüpfung",
+                "<img src=\"paste-414f75b87d10128a4c343b084f33d0b4de72b8ce.jpg\">"
+            ],
+            "guid": "px+f2QfHV(",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Aussage Wenn Dann Verknüpfung",
+                "<img src=\"paste-38fee12be96195bd202ea88da6b18e3576f603e0.jpg\">"
+            ],
+            "guid": "x!c[=R`hHa",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Details Aussage Wenn Dann Verknüpfung",
+                "Wenn a wahr ist, kann b nicht falsch sein"
+            ],
+            "guid": "KNoxwNXG6^",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Aussage GENAU DANN WENN",
+                "<img src=\"paste-2fc8b1816b87b8c9d6b3f1fd60a00a59628ab552.jpg\">"
+            ],
+            "guid": "If(CQ[!^S,",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Warheitswerttafel:&nbsp;<img src=\"paste-987534456d3e86d16d07596564f6b566815f0897.jpg\">&nbsp;für und Verküpfung",
+                "<img src=\"paste-c0049a03548af99ab96a86ae395184d84bf6b80b.jpg\">"
+            ],
+            "guid": "u3f2B]nP9X",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Warheitswerttafel:&nbsp;<img src=\"paste-987534456d3e86d16d07596564f6b566815f0897.jpg\">&nbsp;für oder Verküpfung",
+                "<img src=\"paste-96b04bc52cfe1cf7eca065807fe678c0d3008b03.jpg\">"
+            ],
+            "guid": "p=kzF1~5p+",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Warheitswerttafel:&nbsp;<img src=\"paste-987534456d3e86d16d07596564f6b566815f0897.jpg\">&nbsp;für entweder oder Verküpfung",
+                "<img src=\"paste-54a570d829223c174f27eb1f4ecd1c8ae71ead9c.jpg\">"
+            ],
+            "guid": "bqGXUFDiLm",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Warheitswerttafel:&nbsp;<img src=\"paste-987534456d3e86d16d07596564f6b566815f0897.jpg\">&nbsp;für wenn dann Verküpfung",
+                "<img src=\"paste-a15c16d2deb51d3747580a0e30392f6b744e2bdf.jpg\">"
+            ],
+            "guid": "Q*DATj*-U~",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Warheitswerttafel:&nbsp;<img src=\"paste-987534456d3e86d16d07596564f6b566815f0897.jpg\">&nbsp;für Genau Dann wenn Verküpfung",
+                "<img src=\"paste-1468350c79e6d591cb873fc78a1f3774ec28aa98.jpg\">"
+            ],
+            "guid": "i_xrpz]0u`",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wahrheitsttafel Wert&nbsp;<img src=\"paste-c74717344c875b7d79bbcee46f687371b945b4be.jpg\"><img src=\"paste-13435a1a3e05afbf350e0bb66490f4e492ec3c11.jpg\">",
+                "<img src=\"paste-6c8f3d0cbfd096d858d4a4740c978ecff7c76bff.jpg\">"
+            ],
+            "guid": "yoHph|#Rb`",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie erhält man eine Aussageform?",
+                "Indem man in einer Aussage eine Konstante duch eine Variable ersetzt"
+            ],
+            "guid": "f-,p=*/Q(8",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel Aussageform reale Welt",
+                "Heidenheim hat eine Bundesligamanschaft -&gt; x hat eine Bundesligamanschaft"
+            ],
+            "guid": "w-GiG6J<>i",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel Aussagefrom Mathematisches Beispiel",
+                "a(x) : x&lt;10"
+            ],
+            "guid": "tU,.F_bus`",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist eine Existenz-Aussage?",
+                "Es gibt mindestens ein x aus einer bestimmten Menga, sodass a(x) wahr ist"
+            ],
+            "guid": "qK}rxD&:-L",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie schreibt man eine Existenz-Aussage?",
+                "<img src=\"paste-9ba4dc8f9533d10e733276289fa61192f8911704.jpg\">"
+            ],
+            "guid": "gG`Nz&#(vY",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist eine All-Aussage",
+                "Für alle x aus einer bestimmten Menge gilt a(x)"
+            ],
+            "guid": "q6i;WJMI])",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie schreibt man eine All-Aussage?",
+                "<img src=\"paste-9ba4dc8f9533d10e733276289fa61192f8911704.jpg\"><br>müsste statt E A sein"
+            ],
+            "guid": "t~t^10@f*p",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie heißt das Synohl&nbsp;<img src=\"paste-708a93eb3ad2967523a6a5c7a96869b572363c9a.jpg\">",
+                "All-Quantor"
+            ],
+            "guid": "xLq_]*;-e9",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie heißt das Symbohl&nbsp;<img src=\"paste-eab0bce4ba9856827e029af9d3049f743059861e.jpg\">",
+                "Existzen-Quantor"
+            ],
+            "guid": "jI9?GU{*iy",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was wird daraus?&nbsp;<img src=\"paste-84f4c0dcf1db7e5aece95f78102c487ad201a9cd.jpg\">",
+                "<img src=\"paste-82589eec682c7adaab46d1df75188072f9d7b5ba.jpg\">"
+            ],
+            "guid": "y}N#G^m$hz",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was wird daraus:&nbsp;<img src=\"paste-82589eec682c7adaab46d1df75188072f9d7b5ba.jpg\">",
+                "<img src=\"paste-fa5024138d971671348fdb73a255499bd48fdc98.jpg\">"
+            ],
+            "guid": "n(LNES!Zxu",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie bezeichnen wir Mengen",
+                "Mit Großbuchstaben"
+            ],
+            "guid": "BKeL[c(&fk",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist eine Menge?",
+                "Eine Zusammenfassung von bestimmten und wohlunterschiedenen Objekten"
+            ],
+            "guid": "Gm{5v^qRvJ",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie schreiben wir das etwas ein Teil einer Menge ist?",
+                "<img src=\"paste-b15931a6882e2f58e0afc41f16ab1b1d89681fa0.jpg\">"
+            ],
+            "guid": "G6Q:l~YoH:",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie schreiben wir das etwas kein Teil einer Menge ist?",
+                "<img src=\"paste-e02411b6e9681c8a1923b72de66ba33432a2d512.jpg\">"
+            ],
+            "guid": "EJJ/$~A3#@",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann sind zwei Mengen gleich?",
+                "Wenn sie dieselben Elemente haben"
+            ],
+            "guid": "cxrUnzH}{h",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie können Mengen beschrieben werden?",
+                "<ul><li>Aufzählung</li><li>Beschreibung</li></ul>"
+            ],
+            "guid": "Hhh0Y^*D;&",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Menge Aufzählung",
+                "<img src=\"paste-344e160d22bd509a661149cbafaae3708b5c5a99.jpg\">"
+            ],
+            "guid": "Ok4OvXZu(l",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Menge Beschreibung",
+                "<img src=\"paste-36cb9880f45e112e46c022caa35720703f4c527e.jpg\">"
+            ],
+            "guid": "gT.aa~/]G_",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was enthalten die Natürlichen Zahlen?",
+                "<img src=\"paste-3b5ba5c50d7615c3ab047d3122b7b74765c8352d.jpg\">"
+            ],
+            "guid": "pppfNoQhq^",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was enthalten Ganze Zahlen?",
+                "<img src=\"paste-b1369ef1aea1b4763fef227de4d299987147a52d.jpg\">"
+            ],
+            "guid": "i22[bs^^tm",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie nennen wir die Anzahl von Elementen",
+                "Die Mächtigkeit"
+            ],
+            "guid": "dV>=%$2n:O",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie lässt sich die Mächtigkeit darstellen?",
+                "<img src=\"paste-8926b1fc41c80299fda3d058184aeeb9428e453d.jpg\">"
+            ],
+            "guid": "h<S3vEKlw{",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie schreibt man eine leere Menge?",
+                "<img src=\"paste-a5c8a2a74a4fe701318e8cef38736a07b84d0384.jpg\">"
+            ],
+            "guid": "fM^W`W{*Uq",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann ist A eine Teilmenge von B?",
+                "Wenn gilt:&nbsp;<img src=\"paste-307813088be6acb3e57aa59a8806cdb564841441.jpg\">"
+            ],
+            "guid": "rb*X/;|wr0",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie schreiben wir Teilmengen?",
+                "<img src=\"paste-1b51e4fe0337c3002165ecb63990e24f29ae0d6b.jpg\">"
+            ],
+            "guid": "COQpy&tW>m",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was beinhaltet auch&nbsp;<img src=\"paste-1b51e4fe0337c3002165ecb63990e24f29ae0d6b.jpg\">",
+                "&nbsp;A = B"
+            ],
+            "guid": "q(>itc/[vS",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Leere Menge Teilmenge?",
+                "Die leere Menge ist immer eine Teilmenge für jede Menge"
+            ],
+            "guid": "P$^Aps@@[V",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gibt es mehrere leere Mengen?",
+                "Nein, ist eindeutig bestimt"
+            ],
+            "guid": "m[d<NJotH*",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann gibt es A =B?",
+                "<ul><li><img src=\"paste-21a023db291352b161dc1bb35da656189da5f618.jpg\"><br></li><li><img src=\"paste-efabf9a7b931880ebfb013e2bf038fc5171d7c33.jpg\"><br></li></ul>"
+            ],
+            "guid": "E4=nelcS`s",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Rationale Zahlen",
+                "<img src=\"paste-69c24612642477b473bf871c3bb6f6ffee303032.jpg\">"
+            ],
+            "guid": "ggs`+OBGpd",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind Reele Zahlen?",
+                "<img src=\"paste-7efc0bf505989ddd4275743c8de05ba3c15eec5b.jpg\">"
+            ],
+            "guid": "D-Wo]~jl,-",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind Komplexe Zahlen?",
+                "<img src=\"paste-ca89c46bc95b6462f6f8d8c00bedd87b1c035477.jpg\">"
+            ],
+            "guid": "Zu5;O1.v0",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gegebn ist eine Menge M. Was ist die Menge aller Teilmengen von M?",
+                "<img src=\"paste-468c4aff5a9089371fc80dc49b563839f3d757ca.jpg\">"
+            ],
+            "guid": "l}x~cr1iW[",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie nennen wir das?&nbsp;<img src=\"paste-e40bd385bcf4ecb34a29b16035ea2b6c4a7ffe04.jpg\">",
+                "Das ist die Durchschnittsmenge&nbsp;<br>gelesen A geschnitten B"
+            ],
+            "guid": "Jbv4)p8~M!",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist wenn&nbsp;<img src=\"paste-208fd2edd3ab2605ef88a21828033256bc2b3330.jpg\">",
+                "A und B sind disjunkt oder elementfremd"
+            ],
+            "guid": "dUCAm8dvw!",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie nenne wir das?<img src=\"paste-2965975e0b9a4f0ab2733fe06a091eea67c5e1c4.jpg\">",
+                "Eine Vereinigunsmenge&nbsp;<br>A vereinigt B"
+            ],
+            "guid": "z[HX}DKqR?",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie nennen wir das?&nbsp;<img src=\"paste-5f4098221705cb5cd34f9d4ce15a1fd268b82a8a.jpg\">",
+                "Differenzmenge<br>Gelesen A ohne B"
+            ],
+            "guid": "Q~bscxIO#S",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was gilt wenn&nbsp;<img src=\"paste-1482e53f586b5efc017d1b0188bed464ed0108ec.jpg\">",
+                "Mann nennt dann A \\B auch das Komplement von B in A und schreibt&nbsp;<img src=\"paste-77947f3288b8c83384c25cf1b36b1a63d2674a73.jpg\">"
+            ],
+            "guid": "K$0]8*c:i5",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gegeben ist die Menge A und B. Wie erstellen wir das kartesische Mengenprodukt?",
+                "<img src=\"paste-b3997b5bf94684db1049669044f12bc026b787e4.jpg\">"
+            ],
+            "guid": "yTziWN.>w;",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie nennt man A x B?",
+                "ein geordenetes Paar"
+            ],
+            "guid": "pVNX{[@T&o",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann sind (a1,b1) und (a2 und b2) gleich?",
+                "<ul><li>a1 = a2&nbsp;</li><li>b1=b2</li></ul>"
+            ],
+            "guid": "ngTcC1.*pL",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-d90b96ff5f68e9c1caf55feea663a385d2f12a88.jpg\">&nbsp;=",
+                "<img src=\"paste-c34f004e2d9c53dcef576af4d148b762de3ff83b.jpg\">"
+            ],
+            "guid": "hQR0Z-TjR1",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was bedeutet U bei Mengen?",
+                "Vereinigung"
+            ],
+            "guid": "N7;SDo&u>q",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bas Bedeutet das Umgedrehte U bei Mengen?",
+                "Schnittmenge. Es liegen alle Menten die sowohl in A als auch in B liegen"
+            ],
+            "guid": "N8<Hz:bS{^",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A \\B bedeutung?",
+                "Man entfernt alles aus A, was auch in B liegt"
+            ],
+            "guid": "vqM2C1Vp/W",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist eine Komplementmenge?",
+                "<ul><li><img src=\"paste-68d0b8b284ffcc747e8ad25e6a0656dc8da72092.jpg\"></li><li>In A(strich) gehört alles was in G liegt, aber nicht zu A gehört</li></ul>"
+            ],
+            "guid": "E#MVDe-hjO",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wenn G = N (Natürliche Zahlen) und A die menge der geraden Zahlen, was ist dann A(strich)",
+                "Menge der ungeraden Zahlen"
+            ],
+            "guid": "s&+~{lnx?4",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was entspricht&nbsp;<img src=\"paste-fcc37ce6ae054afc78973d8e62a0a0dd8e6935a0.jpg\">?",
+                "A"
+            ],
+            "guid": "x7ZPGlezQE",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was entspricht&nbsp;<img src=\"paste-93089c2837ce73bd690eb9cc40d11abefcb83bf7.jpg\">",
+                "G"
+            ],
+            "guid": "wJM:|YP]_z",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was entspricht&nbsp;<img src=\"paste-40c96d2460a2732276cfaf1dc1d7fef8961539b3.jpg\">?",
+                "Leere Menge"
+            ],
+            "guid": "K?TDaEr2.e",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-a2b7dc5ea99c04d0e3fe71476b34f4604e097783.jpg\">=",
+                "<img src=\"paste-68143cfa3fc7e442b9d984313e1040d5f89f4aae.jpg\">"
+            ],
+            "guid": "CDy4yJu0;>",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vereinfachere Dieses Beispiel&nbsp;<img src=\"paste-78828043eff80a21471c9bb6b4963c85070d571e.jpg\">",
+                "<img src=\"paste-8c6b92209ad3dfc0a467b95f728a4b590c155862.jpg\">"
+            ],
+            "guid": "dB)Nm/`4A$",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wende die Potzenmenge auf A ={2;5} an",
+                "<img src=\"paste-6476aee748aafff2a6afdd6afa28759c7e33b5d1.jpg\">"
+            ],
+            "guid": "otJRo<=>yN",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie ermittelt man die Anzahl der Elemnte in einer Potenzmenge?",
+                "2 hoch n<br>n steht für die Anzahl der Elemente in einer Menge"
+            ],
+            "guid": "emn[l*p.`5",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bilde das kartesische Produkt von&nbsp;<img src=\"paste-5454ffffb10aca5d29449ce4b48ca0ee425acf65.jpg\">",
+                "<img src=\"paste-9769ad60b459072cd1908dd39ed9247567db239b.jpg\">"
+            ],
+            "guid": "e@%p}9~!Zq",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "i² =",
+                "-1"
+            ],
+            "guid": "cF/9wv%tSx",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "i =",
+                "<img src=\"paste-c70a81919cc71dc2aa38dd32a5d39a3ff71228c2.jpg\">"
+            ],
+            "guid": "xQwH;c1^Zu",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Berechnung einer neatvien Wurzel",
+                "<img src=\"paste-66341160b41aac63d2387c3d7a758125b792f1fa.jpg\">"
+            ],
+            "guid": "C3@)`zADQ8",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bei komplexten Zahlen, wie nennt man a?",
+                "Den Realteil"
+            ],
+            "guid": "Is/;&-^Rg0",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bei Komplexten Zahlen, wie nennt man b",
+                "Imaginärteil"
+            ],
+            "guid": "cb+IW-3(2T",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die konungiert-komplexe Zahl",
+                "<img src=\"paste-ca49f5d93f28e08851d19b70e013e16920b9f7aa.jpg\">"
+            ],
+            "guid": "bBm{eS+rQV",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Geteilt für eine belibige kompelxe Zahl",
+                "<img src=\"paste-df999f85e86b484120ad719f8ddcb5f7396659e0.jpg\">"
+            ],
+            "guid": "F/$W={W**X",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie kann ich das Rechnen?",
+                "<img src=\"paste-3ccb8a4126168ef5dd5753763e383966920fb478.jpg\">"
+            ],
+            "guid": "tNzuTbv*^`",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Komplexe Zahlen in der Zahlenebene",
+                "<img src=\"paste-6dc5ff530e959e9e87305044795ab5c59adc2189.jpg\">"
+            ],
+            "guid": "vMApWLjBOO",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Betrag der komplexen Zahlen",
+                "<img src=\"paste-ea20937d7fe991289fe8fe69778920e013b3d6ab.jpg\">"
+            ],
+            "guid": "M*T2*]!1&9",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ergebnis für x²+1=0",
+                "+-i"
+            ],
+            "guid": "pjajw(uZ=e",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ergebnis für x² +9 = 0",
+                "<ul><li>Wurzel -9</li><li>3i</li></ul>"
+            ],
+            "guid": "A}dDnb+9Vu",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie berechnen wir tan komplexe Zahlen?",
+                "<img src=\"paste-125bb0f04ab68e23c523323b3debc2bf5016fc90.jpg\">"
+            ],
+            "guid": "F96eX4#.=/",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Trigonometrische Form komplexe Zahlen",
+                "<img src=\"paste-63c1f00c8573d65628f3f48fbf2755f5d9cf5ca8.jpg\">"
+            ],
+            "guid": "jfn$UGm@=k",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Komplexe Zahlen Cosinus",
+                "<img src=\"paste-3ab8fdc3fa1e1f5b950444030fc9ec94f1f1d55a.jpg\">"
+            ],
+            "guid": "l|}}N,C6^q",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Komplexe Zahlen sinus",
+                "<img src=\"paste-595709afcc67c0a923f3c04bbde999e87d8d77e8.jpg\">"
+            ],
+            "guid": "j:bAYt(y^P",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Komplexe Zahlen a berechnen (mit sinus/cosins....)",
+                "<img src=\"paste-6e93ba35b61fa70868fb62c3e650f2a289979d9b.jpg\">"
+            ],
+            "guid": "F.[E*L-O+>",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Komplexe Zahlen b berechnen (mit sinus/cosins....)",
+                "<img src=\"paste-3bb6fc6f441e4c45ea6d7d5d7160c4f7e13f4d1d.jpg\">"
+            ],
+            "guid": "hd5<o%&d}.",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tangenz berechnung: falls a &gt;0 und b &gt;= 0",
+                "<img src=\"paste-470f052be5c300e0e0a56181b8581abea69ac089.jpg\">"
+            ],
+            "guid": "v<Iz00nG5j",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tangenz berechnung: falls a &gt;0 und b &lt; 0",
+                "<img src=\"paste-558bf34114e27a914599bf38a0d646cf971f59eb.jpg\">"
+            ],
+            "guid": "e!>1u4:2fS",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tangenz berechnung: falls a &lt;0",
+                "<img src=\"paste-0fd914fac80f75a8b3ea4cac1a8c8e2b556fd220.jpg\">"
+            ],
+            "guid": "b;m7V`fE#K",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tangenz berechnung: falls a = 0 und b &gt; 0",
+                "90"
+            ],
+            "guid": "JHGx(C0UG4",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tangenz berechnung: falls a = 0 und b &lt; 0",
+                "270"
+            ],
+            "guid": "wEa&)wd8uo",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tangenz berechnung: falls a = 0 und b = 0",
+                "0"
+            ],
+            "guid": "OOH-eQ0jJT",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vollstände Induktion Schritte",
+                "<ul><li>Induktionsanfang</li><li>Induktionsannahme</li><li>Induktionsschluss</li></ul>"
+            ],
+            "guid": "em$<paWJrp",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Induktionsanfang",
+                "Die Aussage muss für n = n0 gezeigt werden<br><br>no ist der Erste Punkt für den die Aussage gilt"
+            ],
+            "guid": "N-=~@kMGcM",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Induktionsannahme",
+                "Es wird angenommen, dass die Aussage für eine natürliche Zahl n mit n &gt;= n0 gilt"
+            ],
+            "guid": "B.~Y/mXcp2",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Induktionsschluss",
+                "Unter dieser Annahme ist zu zeigen, dass die Aussage dann auch für n +1 gilt"
+            ],
+            "guid": "BSjw.?qmW2",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wo gilt die Vollstände Induktion",
+                "Gilt nur für natürliche Zahlen"
+            ],
+            "guid": "Qpl0g$Np-X",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was müssen Gleichungen sein, das sie lösbar sind?",
+                "Linear Unabhängig"
+            ],
+            "guid": "Kj>4PK<<Q,",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sind diese Gleichungen Linear?<br><img src=\"paste-f3b4825fa18187befd72a0be1f04f4ca9b4382b7.jpg\">",
+                "Ja"
+            ],
+            "guid": "GJM=i3f|k-",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sind diese Gleichungen Linear<br><img src=\"paste-f24886a11f7edcd13a570c745e4a9df37ca467b1.jpg\">",
+                "<img src=\"paste-6e65b059c95c07f2fbe1968a105bda9f48f31c45.jpg\">"
+            ],
+            "guid": "Q(L<pcHF:C",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
