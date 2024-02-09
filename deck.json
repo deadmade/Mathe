@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "99a5bfb0-c592-11ee-b787-f2a0fc844426",
+    "crowdanki_uuid": "50dc1d83-c78f-11ee-b8f6-f2a0fc844426",
     "deck_config_uuid": "4749c275-c590-11ee-a7ca-f2a0fc844426",
     "deck_configurations": [
         {
@@ -73,13 +73,16 @@
         "paste-13435a1a3e05afbf350e0bb66490f4e492ec3c11.jpg",
         "paste-1468350c79e6d591cb873fc78a1f3774ec28aa98.jpg",
         "paste-1482e53f586b5efc017d1b0188bed464ed0108ec.jpg",
+        "paste-1631304297dfcaa2b44b4a80355b7edfb90941c1.jpg",
         "paste-1b51e4fe0337c3002165ecb63990e24f29ae0d6b.jpg",
         "paste-208fd2edd3ab2605ef88a21828033256bc2b3330.jpg",
         "paste-21a023db291352b161dc1bb35da656189da5f618.jpg",
         "paste-2965975e0b9a4f0ab2733fe06a091eea67c5e1c4.jpg",
         "paste-2ecde81fd5c2cf9b4d9a1ddfbebb6d99be3bf100.jpg",
         "paste-2fc8b1816b87b8c9d6b3f1fd60a00a59628ab552.jpg",
+        "paste-302b795d7a11970a323d4cb9ed749a8172fb4efb.jpg",
         "paste-307813088be6acb3e57aa59a8806cdb564841441.jpg",
+        "paste-32316a3ae9edad55f9c23a013c5c92fe7a16a553.jpg",
         "paste-344e160d22bd509a661149cbafaae3708b5c5a99.jpg",
         "paste-36cb9880f45e112e46c022caa35720703f4c527e.jpg",
         "paste-38fee12be96195bd202ea88da6b18e3576f603e0.jpg",
@@ -87,15 +90,18 @@
         "paste-3b5ba5c50d7615c3ab047d3122b7b74765c8352d.jpg",
         "paste-3bb6fc6f441e4c45ea6d7d5d7160c4f7e13f4d1d.jpg",
         "paste-3ccb8a4126168ef5dd5753763e383966920fb478.jpg",
+        "paste-3e3cb7e038a77a7cfcdd92fca9d97ad9a736aa7f.jpg",
         "paste-40c96d2460a2732276cfaf1dc1d7fef8961539b3.jpg",
         "paste-414f75b87d10128a4c343b084f33d0b4de72b8ce.jpg",
         "paste-45d8c74b66dad618293c65178732a055bc5d5c35.jpg",
         "paste-468c4aff5a9089371fc80dc49b563839f3d757ca.jpg",
         "paste-470f052be5c300e0e0a56181b8581abea69ac089.jpg",
+        "paste-4971bfad9d6cbff11706806c915196a81b185ef3.jpg",
         "paste-5454ffffb10aca5d29449ce4b48ca0ee425acf65.jpg",
         "paste-54a570d829223c174f27eb1f4ecd1c8ae71ead9c.jpg",
         "paste-558bf34114e27a914599bf38a0d646cf971f59eb.jpg",
         "paste-595709afcc67c0a923f3c04bbde999e87d8d77e8.jpg",
+        "paste-5d24de5c150ed33e57fc46c46d41b9c3cd5318f1.jpg",
         "paste-5f4098221705cb5cd34f9d4ce15a1fd268b82a8a.jpg",
         "paste-63c1f00c8573d65628f3f48fbf2755f5d9cf5ca8.jpg",
         "paste-6476aee748aafff2a6afdd6afa28759c7e33b5d1.jpg",
@@ -110,11 +116,14 @@
         "paste-708a93eb3ad2967523a6a5c7a96869b572363c9a.jpg",
         "paste-77947f3288b8c83384c25cf1b36b1a63d2674a73.jpg",
         "paste-78828043eff80a21471c9bb6b4963c85070d571e.jpg",
+        "paste-7c1ec044515fa2260ed3f72eedd7c10452a47cbc.jpg",
         "paste-7efc0bf505989ddd4275743c8de05ba3c15eec5b.jpg",
         "paste-82589eec682c7adaab46d1df75188072f9d7b5ba.jpg",
+        "paste-84ce38bccfac51edf26890dfed77d11100f0077e.jpg",
         "paste-84f4c0dcf1db7e5aece95f78102c487ad201a9cd.jpg",
         "paste-8926b1fc41c80299fda3d058184aeeb9428e453d.jpg",
         "paste-8c6b92209ad3dfc0a467b95f728a4b590c155862.jpg",
+        "paste-90982be9197187760d45d07b48df33fa92fe4c21.jpg",
         "paste-93089c2837ce73bd690eb9cc40d11abefcb83bf7.jpg",
         "paste-96b04bc52cfe1cf7eca065807fe678c0d3008b03.jpg",
         "paste-9769ad60b459072cd1908dd39ed9247567db239b.jpg",
@@ -123,6 +132,7 @@
         "paste-a15c16d2deb51d3747580a0e30392f6b744e2bdf.jpg",
         "paste-a2b7dc5ea99c04d0e3fe71476b34f4604e097783.jpg",
         "paste-a5c8a2a74a4fe701318e8cef38736a07b84d0384.jpg",
+        "paste-b10664cfd1bb3ed70a605ed12a4900f14d7822cd.jpg",
         "paste-b1369ef1aea1b4763fef227de4d299987147a52d.jpg",
         "paste-b15931a6882e2f58e0afc41f16ab1b1d89681fa0.jpg",
         "paste-b3997b5bf94684db1049669044f12bc026b787e4.jpg",
@@ -141,6 +151,7 @@
         "paste-eab0bce4ba9856827e029af9d3049f743059861e.jpg",
         "paste-efabf9a7b931880ebfb013e2bf038fc5171d7c33.jpg",
         "paste-f24886a11f7edcd13a570c745e4a9df37ca467b1.jpg",
+        "paste-f28ba570d4f5396812d57d26b4a7bbc23508d8e8.jpg",
         "paste-f3b4825fa18187befd72a0be1f04f4ca9b4382b7.jpg",
         "paste-fa5024138d971671348fdb73a255499bd48fdc98.jpg",
         "paste-fcc37ce6ae054afc78973d8e62a0a0dd8e6935a0.jpg"
@@ -1275,6 +1286,236 @@
                 "<img src=\"paste-6e65b059c95c07f2fbe1968a105bda9f48f31c45.jpg\">"
             ],
             "guid": "Q(L<pcHF:C",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Welche Möglichkeiten gibt es um Gleichungen zu Lösen?",
+                "<ul><li>lösbar</li><li>nicht eindeutig lösbar</li><li>nicht lösbar</li></ul>"
+            ],
+            "guid": "vF+2wg%;,z",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind zulässige Umformungen eines Linearen Gleichungsystems?",
+                "<ul><li>Vertauschung zweier Zeilen</li><li>Multiplikation einer Zeile mit einer von 0 verschiedenen Zahl</li><li>Addition einer Zeile auf eine andere Zeile</li></ul>"
+            ],
+            "guid": "Pc:]?p>0D`",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sollte man im Gauß Verfahren unbedingt vermeiden",
+                "Brüche"
+            ],
+            "guid": "tAZmUmUYWV",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann ist ein Gauß Gleichungssystem eindeutig lösbar?",
+                "Wenn es so aussieht:<br><img src=\"paste-b10664cfd1bb3ed70a605ed12a4900f14d7822cd.jpg\">"
+            ],
+            "guid": "G&xYTA^cWV",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ist dieses Gleichungssystem lösbar?<br><img src=\"paste-90982be9197187760d45d07b48df33fa92fe4c21.jpg\">",
+                "Es ist nicht eindeutig lösbar<br>Es hat unendlich viele Lösungen"
+            ],
+            "guid": "NWS$EP<nO|",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ist dieses Gleichungssystem Lösbar?<br><img src=\"paste-1631304297dfcaa2b44b4a80355b7edfb90941c1.jpg\">",
+                "Es gibt keine Lösung"
+            ],
+            "guid": "2KXocnT~S",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie wird eine Linearkombination erstellt?",
+                "<img src=\"paste-7c1ec044515fa2260ed3f72eedd7c10452a47cbc.jpg\"><br><br>"
+            ],
+            "guid": "C5@xI7:XWi",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann sind Vektoren Linear unabhängig?",
+                "Wenn die einzige Möglichkeit den Null Vektor zu bestimmen, darin besteht&nbsp;<br><img src=\"paste-84ce38bccfac51edf26890dfed77d11100f0077e.jpg\">"
+            ],
+            "guid": "btL2cGo<g7",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann sind Vektoren Linear abhängig?",
+                "Wenn, um den Nullvektor als Linearkombination darzustellen nicht alle Mengen als 0 deklarieren muss<br>"
+            ],
+            "guid": "n7)xIwp`[V",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist wenn die Anzahl k der Vektoren größer als Dimension n ist?",
+                "Vektoren sind stets linear abhängig<br>"
+            ],
+            "guid": "K`}-{53{:s",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kann man Vektoren dividiren",
+                "Nein!"
+            ],
+            "guid": "b|DoN{NZRW",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie nennt man eine Matrix wenn m = n?",
+                "quadratische Matrix"
+            ],
+            "guid": "ur1&UV|oc^",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie heißt m bei einer Matrix?",
+                "Zeilen"
+            ],
+            "guid": "i}3iKj`4-V",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie heißt n bei einer Matrix?",
+                "Spalte"
+            ],
+            "guid": "Io1w3Mh;)5",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie schreibt man eine Matrix? (m und n)",
+                "(m x n)-Matrix"
+            ],
+            "guid": "khHa/O<Ddo",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie bildet man die Summe zweier Matrixen?",
+                "<img src=\"paste-302b795d7a11970a323d4cb9ed749a8172fb4efb.jpg\">"
+            ],
+            "guid": "zIP?)<Of}2",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Multiplikation von Matrizen?",
+                "<img src=\"paste-4971bfad9d6cbff11706806c915196a81b185ef3.jpg\"><br><br>-&gt; 1*1 + 4*-2 + 2* 0"
+            ],
+            "guid": "KgNRfIjCo1",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann funktioniert eine Multiplikation",
+                "Wenn das n der ersten Matrix und das m der zweiten Matrix gleich sind&nbsp;"
+            ],
+            "guid": "B$Uh8WNVS0",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Matritzenprodukt: Was Ist A *B = B*A?",
+                "Nein"
+            ],
+            "guid": "hFmc*qteqT",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann heißt eine quadratische Matix symmetrisch",
+                "<img src=\"paste-f28ba570d4f5396812d57d26b4a7bbc23508d8e8.jpg\">"
+            ],
+            "guid": "vPUF{$Pe5Q",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie kann man eine transportierte Matrix erstellen?",
+                "<img src=\"paste-32316a3ae9edad55f9c23a013c5c92fe7a16a553.jpg\">"
+            ],
+            "guid": "g~Ny)(l&[[",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind&nbsp;<img src=\"paste-5d24de5c150ed33e57fc46c46d41b9c3cd5318f1.jpg\">&nbsp;wenn A eine quadratische Matrix ist?",
+                "S1"
+            ],
+            "guid": "y2X3@7Q}W.",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind&nbsp;<img src=\"paste-3e3cb7e038a77a7cfcdd92fca9d97ad9a736aa7f.jpg\">wenn A eine quadratische Matrix ist?",
+                "S2"
+            ],
+            "guid": "xK}Xpw7)rn",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
             "tags": []
         }
