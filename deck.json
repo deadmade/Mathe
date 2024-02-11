@@ -232,8 +232,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was ist eine Aussage?",
-                "Es ist ein Satz, der wahr oder falsch sein kann"
+                "Was ist eine Aussage?&nbsp;",
+                "Es ist ein Satz, der wahr oder falsch sein kann&nbsp;"
             ],
             "guid": "if+y7&BcV8",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -242,8 +242,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was ist keine Aussage?",
-                "Ein Satz dem kein Wahrheitswert zugeordnet werden kann ist keine Aussage"
+                "Was ist keine Aussage?&nbsp;",
+                "Ein Satz dem kein Wahrheitswert zugeordnet werden kann ist keine Aussage&nbsp;"
             ],
             "guid": "edDaKBv!u!",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -252,8 +252,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Beispiel Aussage",
-                "<ul><li>Es regnet heute</li></ul>"
+                "Beispiel Aussage&nbsp;",
+                "<ul><li>Es regnet heute&nbsp;</li></ul>"
             ],
             "guid": "A~HSo(jeTh",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -262,8 +262,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was sind Umgangssprache Aussagen",
-                "und oder"
+                "Was sind Umgangssprache Aussagen&nbsp;",
+                "und oder&nbsp;"
             ],
             "guid": "j;w~|@}gQT",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -272,7 +272,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie beziechnen wir Aussagen?",
+                "Wie bezeichnen wir Aussagen?&nbsp;",
                 "<ul><li>a</li><li>b</li><li>c&nbsp;</li></ul>"
             ],
             "guid": "oMzU{%g6_b",
@@ -282,8 +282,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie kann man sagen, das eine Aussage falsch ist?",
-                "<img src=\"paste-2ecde81fd5c2cf9b4d9a1ddfbebb6d99be3bf100.jpg\">"
+                "Wie kann man sagen, das eine Aussage falsch ist?&nbsp;",
+                "<img src=\"paste-2ecde81fd5c2cf9b4d9a1ddfbebb6d99be3bf100.jpg\">&nbsp;"
             ],
             "guid": "F/GXla,_SC",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -292,7 +292,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Aussage UND Verküpfung",
+                "Aussage UND Verknüpfung&nbsp;&nbsp;",
                 "<img src=\"paste-ded792c81173aea5c49e0662bef8d099da5858b0.jpg\">"
             ],
             "guid": "kgy!U%/3^(",
@@ -302,7 +302,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Aussage ODER Verküpfung",
+                "Aussage ODER Verknüpfung&nbsp;",
                 "<img src=\"paste-45d8c74b66dad618293c65178732a055bc5d5c35.jpg\">"
             ],
             "guid": "f`2ASB:#Dv",
@@ -312,7 +312,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Aussage ENTWEDER-ODER Verknüpfung",
+                "Aussage ENTWEDER-ODER Verknüpfung&nbsp;",
                 "<img src=\"paste-414f75b87d10128a4c343b084f33d0b4de72b8ce.jpg\">"
             ],
             "guid": "px+f2QfHV(",
@@ -322,7 +322,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Aussage Wenn Dann Verknüpfung",
+                "Aussage Wenn Dann Verknüpfung&nbsp;",
                 "<img src=\"paste-38fee12be96195bd202ea88da6b18e3576f603e0.jpg\">"
             ],
             "guid": "x!c[=R`hHa",
@@ -332,8 +332,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Details Aussage Wenn Dann Verknüpfung",
-                "Wenn a wahr ist, kann b nicht falsch sein"
+                "Details Aussage Wenn Dann Verknüpfung&nbsp;",
+                "Wenn a wahr ist, kann b nicht falsch sein&nbsp;"
             ],
             "guid": "KNoxwNXG6^",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -342,7 +342,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Aussage GENAU DANN WENN",
+                "Aussage GENAU DANN WENN&nbsp;",
                 "<img src=\"paste-2fc8b1816b87b8c9d6b3f1fd60a00a59628ab552.jpg\">"
             ],
             "guid": "If(CQ[!^S,",
@@ -352,7 +352,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Warheitswerttafel:&nbsp;<img src=\"paste-987534456d3e86d16d07596564f6b566815f0897.jpg\">&nbsp;für und Verküpfung",
+                "Wahrheitswerttabelle:&nbsp;<img src=\"paste-987534456d3e86d16d07596564f6b566815f0897.jpg\">&nbsp;für und Verknüpfung&nbsp;",
                 "<img src=\"paste-c0049a03548af99ab96a86ae395184d84bf6b80b.jpg\">"
             ],
             "guid": "u3f2B]nP9X",
@@ -362,7 +362,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Warheitswerttafel:&nbsp;<img src=\"paste-987534456d3e86d16d07596564f6b566815f0897.jpg\">&nbsp;für oder Verküpfung",
+                "Wahrheitswerttabelle:&nbsp;<img src=\"paste-987534456d3e86d16d07596564f6b566815f0897.jpg\">&nbsp;für oder Verknüpfung&nbsp;",
                 "<img src=\"paste-96b04bc52cfe1cf7eca065807fe678c0d3008b03.jpg\">"
             ],
             "guid": "p=kzF1~5p+",
@@ -372,7 +372,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Warheitswerttafel:&nbsp;<img src=\"paste-987534456d3e86d16d07596564f6b566815f0897.jpg\">&nbsp;für entweder oder Verküpfung",
+                "Wahrheitswerttabelle:&nbsp;<img src=\"paste-987534456d3e86d16d07596564f6b566815f0897.jpg\">&nbsp;für entweder oder Verknüpfung&nbsp;",
                 "<img src=\"paste-54a570d829223c174f27eb1f4ecd1c8ae71ead9c.jpg\">"
             ],
             "guid": "bqGXUFDiLm",
@@ -382,7 +382,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Warheitswerttafel:&nbsp;<img src=\"paste-987534456d3e86d16d07596564f6b566815f0897.jpg\">&nbsp;für wenn dann Verküpfung",
+                "Wahrheitswerttabelle:&nbsp;<img src=\"paste-987534456d3e86d16d07596564f6b566815f0897.jpg\">&nbsp;für wenn dann Verknüpfung&nbsp;",
                 "<img src=\"paste-a15c16d2deb51d3747580a0e30392f6b744e2bdf.jpg\">"
             ],
             "guid": "Q*DATj*-U~",
@@ -392,7 +392,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Warheitswerttafel:&nbsp;<img src=\"paste-987534456d3e86d16d07596564f6b566815f0897.jpg\">&nbsp;für Genau Dann wenn Verküpfung",
+                "Wahrheitswerttabelle:&nbsp;<img src=\"paste-987534456d3e86d16d07596564f6b566815f0897.jpg\">&nbsp;für Genau Dann wenn Verknüpfung&nbsp;",
                 "<img src=\"paste-1468350c79e6d591cb873fc78a1f3774ec28aa98.jpg\">"
             ],
             "guid": "i_xrpz]0u`",
@@ -402,7 +402,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wahrheitsttafel Wert&nbsp;<img src=\"paste-c74717344c875b7d79bbcee46f687371b945b4be.jpg\"><img src=\"paste-13435a1a3e05afbf350e0bb66490f4e492ec3c11.jpg\">",
+                "Wahrheitstafel Wert&nbsp;<img src=\"paste-c74717344c875b7d79bbcee46f687371b945b4be.jpg\"><img src=\"paste-13435a1a3e05afbf350e0bb66490f4e492ec3c11.jpg\">&nbsp;",
                 "<img src=\"paste-6c8f3d0cbfd096d858d4a4740c978ecff7c76bff.jpg\">"
             ],
             "guid": "yoHph|#Rb`",
@@ -412,8 +412,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie erhält man eine Aussageform?",
-                "Indem man in einer Aussage eine Konstante duch eine Variable ersetzt"
+                "Wie erhält man eine Aussageform?&nbsp;",
+                "Indem man in einer Aussage eine Konstante durch eine Variable ersetzt&nbsp;"
             ],
             "guid": "f-,p=*/Q(8",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -422,8 +422,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Beispiel Aussageform reale Welt",
-                "Heidenheim hat eine Bundesligamanschaft -&gt; x hat eine Bundesligamanschaft"
+                "Beispiel Aussageform reale Welt&nbsp;",
+                "Heidenheim hat eine Bundesligamannschaft -&gt; x hat eine Bundesligamannschaft&nbsp;"
             ],
             "guid": "w-GiG6J<>i",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -432,8 +432,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Beispiel Aussagefrom Mathematisches Beispiel",
-                "a(x) : x&lt;10"
+                "Beispiel Aussageform Mathematisches Beispiel&nbsp;",
+                "a(x) : x&lt;10&nbsp;"
             ],
             "guid": "tU,.F_bus`",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -442,8 +442,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was ist eine Existenz-Aussage?",
-                "Es gibt mindestens ein x aus einer bestimmten Menga, sodass a(x) wahr ist"
+                "Was ist eine Existenz-Aussage?&nbsp;",
+                "Es gibt mindestens ein x aus einer bestimmten Menge, sodass a(x) wahr ist&nbsp;"
             ],
             "guid": "qK}rxD&:-L",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -452,7 +452,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie schreibt man eine Existenz-Aussage?",
+                "Wie schreibt man eine Existenz-Aussage?&nbsp;",
                 "<img src=\"paste-9ba4dc8f9533d10e733276289fa61192f8911704.jpg\">"
             ],
             "guid": "gG`Nz&#(vY",
@@ -462,8 +462,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was ist eine All-Aussage",
-                "Für alle x aus einer bestimmten Menge gilt a(x)"
+                "Was ist eine All-Aussage&nbsp;",
+                "Für alle x aus einer bestimmten Menge gilt a(x)&nbsp;"
             ],
             "guid": "q6i;WJMI])",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -472,8 +472,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie schreibt man eine All-Aussage?",
-                "<img src=\"paste-9ba4dc8f9533d10e733276289fa61192f8911704.jpg\"><br>müsste statt E A sein"
+                "Wie schreibt man eine All-Aussage?&nbsp;",
+                "<img src=\"paste-9ba4dc8f9533d10e733276289fa61192f8911704.jpg\"><br>müsste statt E A sein&nbsp;"
             ],
             "guid": "t~t^10@f*p",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -482,8 +482,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie heißt das Synohl&nbsp;<img src=\"paste-708a93eb3ad2967523a6a5c7a96869b572363c9a.jpg\">",
-                "All-Quantor"
+                "Wie heißt das Symbohl&nbsp;<img src=\"paste-708a93eb3ad2967523a6a5c7a96869b572363c9a.jpg\">&nbsp;",
+                "All-Quantor&nbsp;"
             ],
             "guid": "xLq_]*;-e9",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -492,8 +492,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie heißt das Symbohl&nbsp;<img src=\"paste-eab0bce4ba9856827e029af9d3049f743059861e.jpg\">",
-                "Existzen-Quantor"
+                "Wie heißt das Symbol&nbsp;<img src=\"paste-eab0bce4ba9856827e029af9d3049f743059861e.jpg\">&nbsp;",
+                "Existenz-Quantor&nbsp;"
             ],
             "guid": "jI9?GU{*iy",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -502,7 +502,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was wird daraus?&nbsp;<img src=\"paste-84f4c0dcf1db7e5aece95f78102c487ad201a9cd.jpg\">",
+                "Was wird daraus?&nbsp;<img src=\"paste-84f4c0dcf1db7e5aece95f78102c487ad201a9cd.jpg\">&nbsp;",
                 "<img src=\"paste-82589eec682c7adaab46d1df75188072f9d7b5ba.jpg\">"
             ],
             "guid": "y}N#G^m$hz",
@@ -512,7 +512,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was wird daraus:&nbsp;<img src=\"paste-82589eec682c7adaab46d1df75188072f9d7b5ba.jpg\">",
+                "Was wird daraus:&nbsp;<img src=\"paste-82589eec682c7adaab46d1df75188072f9d7b5ba.jpg\">&nbsp;",
                 "<img src=\"paste-fa5024138d971671348fdb73a255499bd48fdc98.jpg\">"
             ],
             "guid": "n(LNES!Zxu",
@@ -522,8 +522,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie bezeichnen wir Mengen",
-                "Mit Großbuchstaben"
+                "Wie bezeichnen wir Mengen&nbsp;",
+                "Mit Großbuchstaben&nbsp;"
             ],
             "guid": "BKeL[c(&fk",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -532,8 +532,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was ist eine Menge?",
-                "Eine Zusammenfassung von bestimmten und wohlunterschiedenen Objekten"
+                "Was ist eine Menge?&nbsp;",
+                "Eine Zusammenfassung von bestimmten und wohl unterschiedenen Objekten&nbsp;"
             ],
             "guid": "Gm{5v^qRvJ",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -542,7 +542,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie schreiben wir das etwas ein Teil einer Menge ist?",
+                "Wie schreiben wir das etwas ein Teil einer Menge ist?&nbsp;",
                 "<img src=\"paste-b15931a6882e2f58e0afc41f16ab1b1d89681fa0.jpg\">"
             ],
             "guid": "G6Q:l~YoH:",
@@ -552,7 +552,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie schreiben wir das etwas kein Teil einer Menge ist?",
+                "Wie schreiben wir das etwas kein Teil einer Menge ist?&nbsp;",
                 "<img src=\"paste-e02411b6e9681c8a1923b72de66ba33432a2d512.jpg\">"
             ],
             "guid": "EJJ/$~A3#@",
@@ -562,8 +562,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wann sind zwei Mengen gleich?",
-                "Wenn sie dieselben Elemente haben"
+                "Wann sind zwei Mengen gleich?&nbsp;",
+                "Wenn sie dieselben Elemente haben&nbsp;"
             ],
             "guid": "cxrUnzH}{h",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -572,8 +572,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie können Mengen beschrieben werden?",
-                "<ul><li>Aufzählung</li><li>Beschreibung</li></ul>"
+                "Wie können Mengen beschrieben werden?&nbsp;",
+                "<ul><li>Aufzählung</li><li>Beschreibung&nbsp;</li></ul>"
             ],
             "guid": "Hhh0Y^*D;&",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -582,7 +582,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Menge Aufzählung",
+                "Menge Aufzählung&nbsp;",
                 "<img src=\"paste-344e160d22bd509a661149cbafaae3708b5c5a99.jpg\">"
             ],
             "guid": "Ok4OvXZu(l",
@@ -592,8 +592,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Menge Beschreibung",
-                "<img src=\"paste-36cb9880f45e112e46c022caa35720703f4c527e.jpg\">"
+                "Menge Beschreibung&nbsp;",
+                "<img src=\"paste-36cb9880f45e112e46c022caa35720703f4c527e.jpg\">&nbsp;"
             ],
             "guid": "gT.aa~/]G_",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -602,7 +602,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was enthalten die Natürlichen Zahlen?",
+                "Was enthalten die Natürlichen Zahlen?&nbsp;",
                 "<img src=\"paste-3b5ba5c50d7615c3ab047d3122b7b74765c8352d.jpg\">"
             ],
             "guid": "pppfNoQhq^",
@@ -612,7 +612,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was enthalten Ganze Zahlen?",
+                "Was enthalten Ganze Zahlen?&nbsp;",
                 "<img src=\"paste-b1369ef1aea1b4763fef227de4d299987147a52d.jpg\">"
             ],
             "guid": "i22[bs^^tm",
@@ -622,8 +622,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie nennen wir die Anzahl von Elementen",
-                "Die Mächtigkeit"
+                "Wie nennen wir die Anzahl von Elementen&nbsp;",
+                "Die Mächtigkeit&nbsp;"
             ],
             "guid": "dV>=%$2n:O",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -632,7 +632,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie lässt sich die Mächtigkeit darstellen?",
+                "Wie lässt sich die Mächtigkeit darstellen?&nbsp;",
                 "<img src=\"paste-8926b1fc41c80299fda3d058184aeeb9428e453d.jpg\">"
             ],
             "guid": "h<S3vEKlw{",
@@ -642,7 +642,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie schreibt man eine leere Menge?",
+                "Wie schreibt man eine leere Menge?&nbsp;",
                 "<img src=\"paste-a5c8a2a74a4fe701318e8cef38736a07b84d0384.jpg\">"
             ],
             "guid": "fM^W`W{*Uq",
@@ -652,8 +652,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wann ist A eine Teilmenge von B?",
-                "Wenn gilt:&nbsp;<img src=\"paste-307813088be6acb3e57aa59a8806cdb564841441.jpg\">"
+                "Wann ist A eine Teilmenge von B?&nbsp;",
+                "Wenn gilt:&nbsp;<img src=\"paste-307813088be6acb3e57aa59a8806cdb564841441.jpg\">&nbsp;"
             ],
             "guid": "rb*X/;|wr0",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -662,7 +662,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie schreiben wir Teilmengen?",
+                "Wie schreiben wir Teilmengen?&nbsp;",
                 "<img src=\"paste-1b51e4fe0337c3002165ecb63990e24f29ae0d6b.jpg\">"
             ],
             "guid": "COQpy&tW>m",
@@ -672,7 +672,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was beinhaltet auch&nbsp;<img src=\"paste-1b51e4fe0337c3002165ecb63990e24f29ae0d6b.jpg\">",
+                "Was beinhaltet auch&nbsp;<img src=\"paste-1b51e4fe0337c3002165ecb63990e24f29ae0d6b.jpg\">&nbsp;",
                 "&nbsp;A = B"
             ],
             "guid": "q(>itc/[vS",
@@ -682,8 +682,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Leere Menge Teilmenge?",
-                "Die leere Menge ist immer eine Teilmenge für jede Menge"
+                "Leere Menge Teilmenge?&nbsp;",
+                "Die leere Menge ist immer eine Teilmenge für jede Menge&nbsp;"
             ],
             "guid": "P$^Aps@@[V",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -692,8 +692,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Gibt es mehrere leere Mengen?",
-                "Nein, ist eindeutig bestimt"
+                "Gibt es mehrere leere Mengen?&nbsp;",
+                "Nein, ist eindeutig bestimmt&nbsp;"
             ],
             "guid": "m[d<NJotH*",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -702,7 +702,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wann gibt es A =B?",
+                "Wann gibt es A =B?&nbsp;",
                 "<ul><li><img src=\"paste-21a023db291352b161dc1bb35da656189da5f618.jpg\"><br></li><li><img src=\"paste-efabf9a7b931880ebfb013e2bf038fc5171d7c33.jpg\"><br></li></ul>"
             ],
             "guid": "E4=nelcS`s",
@@ -712,7 +712,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Rationale Zahlen",
+                "Rationale Zahlen&nbsp;",
                 "<img src=\"paste-69c24612642477b473bf871c3bb6f6ffee303032.jpg\">"
             ],
             "guid": "ggs`+OBGpd",
@@ -722,7 +722,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was sind Reele Zahlen?",
+                "Was sind Reelen Zahlen?&nbsp;",
                 "<img src=\"paste-7efc0bf505989ddd4275743c8de05ba3c15eec5b.jpg\">"
             ],
             "guid": "D-Wo]~jl,-",
@@ -732,7 +732,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was sind Komplexe Zahlen?",
+                "Was sind Komplexen Zahlen?&nbsp;",
                 "<img src=\"paste-ca89c46bc95b6462f6f8d8c00bedd87b1c035477.jpg\">"
             ],
             "guid": "Zu5;O1.v0",
@@ -742,7 +742,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Gegebn ist eine Menge M. Was ist die Menge aller Teilmengen von M?",
+                "Gegeben ist eine Menge M. Was ist die Menge aller Teilmengen von M?&nbsp;",
                 "<img src=\"paste-468c4aff5a9089371fc80dc49b563839f3d757ca.jpg\">"
             ],
             "guid": "l}x~cr1iW[",
@@ -752,8 +752,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie nennen wir das?&nbsp;<img src=\"paste-e40bd385bcf4ecb34a29b16035ea2b6c4a7ffe04.jpg\">",
-                "Das ist die Durchschnittsmenge&nbsp;<br>gelesen A geschnitten B"
+                "Wie nennen wir das?&nbsp;<img src=\"paste-e40bd385bcf4ecb34a29b16035ea2b6c4a7ffe04.jpg\">&nbsp;",
+                "Das ist die Durchschnittsmenge&nbsp;<br>gelesen A geschnitten B&nbsp;"
             ],
             "guid": "Jbv4)p8~M!",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -763,7 +763,7 @@
             "__type__": "Note",
             "fields": [
                 "Was ist wenn&nbsp;<img src=\"paste-208fd2edd3ab2605ef88a21828033256bc2b3330.jpg\">",
-                "A und B sind disjunkt oder elementfremd"
+                "A und B sind disjunkt oder elementfremd&nbsp;"
             ],
             "guid": "dUCAm8dvw!",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -772,8 +772,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie nenne wir das?<img src=\"paste-2965975e0b9a4f0ab2733fe06a091eea67c5e1c4.jpg\">",
-                "Eine Vereinigunsmenge&nbsp;<br>A vereinigt B"
+                "Wie nenne wir das?<img src=\"paste-2965975e0b9a4f0ab2733fe06a091eea67c5e1c4.jpg\">&nbsp;",
+                "Eine Vereinigunsmenge&nbsp;<br>A vereinigt B&nbsp;"
             ],
             "guid": "z[HX}DKqR?",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -782,8 +782,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie nennen wir das?&nbsp;<img src=\"paste-5f4098221705cb5cd34f9d4ce15a1fd268b82a8a.jpg\">",
-                "Differenzmenge<br>Gelesen A ohne B"
+                "Wie nennen wir das?&nbsp;<img src=\"paste-5f4098221705cb5cd34f9d4ce15a1fd268b82a8a.jpg\">&nbsp;",
+                "Differenzmenge<br>Gelesen A ohne B&nbsp;"
             ],
             "guid": "Q~bscxIO#S",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -793,7 +793,7 @@
             "__type__": "Note",
             "fields": [
                 "Was gilt wenn&nbsp;<img src=\"paste-1482e53f586b5efc017d1b0188bed464ed0108ec.jpg\">",
-                "Mann nennt dann A \\B auch das Komplement von B in A und schreibt&nbsp;<img src=\"paste-77947f3288b8c83384c25cf1b36b1a63d2674a73.jpg\">"
+                "Mann nennt dann A \\B auch das Komplement von B in A und schreibt&nbsp;<img src=\"paste-77947f3288b8c83384c25cf1b36b1a63d2674a73.jpg\">&nbsp;"
             ],
             "guid": "K$0]8*c:i5",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -802,7 +802,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Gegeben ist die Menge A und B. Wie erstellen wir das kartesische Mengenprodukt?",
+                "Gegeben ist die Menge A und B. Wie erstellen wir das kartesische Mengenprodukt?&nbsp;",
                 "<img src=\"paste-b3997b5bf94684db1049669044f12bc026b787e4.jpg\">"
             ],
             "guid": "yTziWN.>w;",
@@ -812,8 +812,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie nennt man A x B?",
-                "ein geordenetes Paar"
+                "Wie nennt man A x B?&nbsp;",
+                "ein geordnetes Paar&nbsp;"
             ],
             "guid": "pVNX{[@T&o",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -822,8 +822,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wann sind (a1,b1) und (a2 und b2) gleich?",
-                "<ul><li>a1 = a2&nbsp;</li><li>b1=b2</li></ul>"
+                "Wann sind (a1,b1) und (a2 und b2) gleich?&nbsp;",
+                "<ul><li>a1 = a2&nbsp;</li><li>b1=b2&nbsp;</li></ul>"
             ],
             "guid": "ngTcC1.*pL",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -842,8 +842,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was bedeutet U bei Mengen?",
-                "Vereinigung"
+                "Was bedeutet U bei Mengen?&nbsp;",
+                "Vereinigung&nbsp;"
             ],
             "guid": "N7;SDo&u>q",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -852,8 +852,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Bas Bedeutet das Umgedrehte U bei Mengen?",
-                "Schnittmenge. Es liegen alle Menten die sowohl in A als auch in B liegen"
+                "Was Bedeutet das Umgedrehte U bei Mengen?&nbsp;",
+                "Schnittmenge. Es liegen alle Mengen die sowohl in A als auch in B liegen&nbsp;"
             ],
             "guid": "N8<Hz:bS{^",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -862,8 +862,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "A \\B bedeutung?",
-                "Man entfernt alles aus A, was auch in B liegt"
+                "A \\B Bedeutung?&nbsp;&nbsp;",
+                "Man entfernt alles aus A, was auch in B liegt&nbsp;"
             ],
             "guid": "vqM2C1Vp/W",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -872,8 +872,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was ist eine Komplementmenge?",
-                "<ul><li><img src=\"paste-68d0b8b284ffcc747e8ad25e6a0656dc8da72092.jpg\"></li><li>In A(strich) gehört alles was in G liegt, aber nicht zu A gehört</li></ul>"
+                "Was ist eine Komplement menge?",
+                "<ul><li><img src=\"paste-68d0b8b284ffcc747e8ad25e6a0656dc8da72092.jpg\"></li><li>In A(strich) gehört alles was in G liegt, aber nicht zu A gehört&nbsp;</li></ul>"
             ],
             "guid": "E#MVDe-hjO",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -882,8 +882,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wenn G = N (Natürliche Zahlen) und A die menge der geraden Zahlen, was ist dann A(strich)",
-                "Menge der ungeraden Zahlen"
+                "Wenn G = N (Natürliche Zahlen) und A die menge der geraden Zahlen, was ist dann A(strich)&nbsp;",
+                "Menge der ungeraden Zahlen&nbsp;"
             ],
             "guid": "s&+~{lnx?4",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -892,7 +892,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was entspricht&nbsp;<img src=\"paste-fcc37ce6ae054afc78973d8e62a0a0dd8e6935a0.jpg\">?",
+                "Was entspricht&nbsp;<img src=\"paste-fcc37ce6ae054afc78973d8e62a0a0dd8e6935a0.jpg\">?&nbsp;",
                 "A"
             ],
             "guid": "x7ZPGlezQE",
@@ -902,7 +902,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was entspricht&nbsp;<img src=\"paste-93089c2837ce73bd690eb9cc40d11abefcb83bf7.jpg\">",
+                "Was entspricht&nbsp;<img src=\"paste-93089c2837ce73bd690eb9cc40d11abefcb83bf7.jpg\">&nbsp;",
                 "G"
             ],
             "guid": "wJM:|YP]_z",
@@ -912,8 +912,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was entspricht&nbsp;<img src=\"paste-40c96d2460a2732276cfaf1dc1d7fef8961539b3.jpg\">?",
-                "Leere Menge"
+                "Was entspricht&nbsp;<img src=\"paste-40c96d2460a2732276cfaf1dc1d7fef8961539b3.jpg\">?&nbsp;",
+                "Leere Menge&nbsp;"
             ],
             "guid": "K?TDaEr2.e",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -942,7 +942,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wende die Potzenmenge auf A ={2;5} an",
+                "Wende die Potenzmenge auf A ={2;5} an&nbsp;",
                 "<img src=\"paste-6476aee748aafff2a6afdd6afa28759c7e33b5d1.jpg\">"
             ],
             "guid": "otJRo<=>yN",
@@ -952,8 +952,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie ermittelt man die Anzahl der Elemnte in einer Potenzmenge?",
-                "2 hoch n<br>n steht für die Anzahl der Elemente in einer Menge"
+                "Wie ermittelt man die Anzahl der Elemente in einer Potenzmenge?&nbsp;",
+                "2 hoch n<br>n steht für die Anzahl der Elemente in einer Menge&nbsp;"
             ],
             "guid": "emn[l*p.`5",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -962,8 +962,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Bilde das kartesische Produkt von&nbsp;<img src=\"paste-5454ffffb10aca5d29449ce4b48ca0ee425acf65.jpg\">",
-                "<img src=\"paste-9769ad60b459072cd1908dd39ed9247567db239b.jpg\">"
+                "Bilde das kartesische Produkt von&nbsp;<img src=\"paste-5454ffffb10aca5d29449ce4b48ca0ee425acf65.jpg\">&nbsp;",
+                "<img src=\"paste-9769ad60b459072cd1908dd39ed9247567db239b.jpg\">&nbsp;"
             ],
             "guid": "e@%p}9~!Zq",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -992,7 +992,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Berechnung einer neatvien Wurzel",
+                "Berechnung einer negatvien Wurzel&nbsp;",
                 "<img src=\"paste-66341160b41aac63d2387c3d7a758125b792f1fa.jpg\">"
             ],
             "guid": "C3@)`zADQ8",
@@ -1002,7 +1002,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Bei komplexten Zahlen, wie nennt man a?",
+                "Bei komplexen Zahlen, wie nennt man a?&nbsp;",
                 "Den Realteil"
             ],
             "guid": "Is/;&-^Rg0",
@@ -1012,8 +1012,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Bei Komplexten Zahlen, wie nennt man b",
-                "Imaginärteil"
+                "Bei Komplexen Zahlen, wie nennt man b",
+                "Imaginärteil&nbsp;"
             ],
             "guid": "cb+IW-3(2T",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -1022,7 +1022,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was ist die konungiert-komplexe Zahl",
+                "Was ist die konjugiert-komplexe Zahl&nbsp;",
                 "<img src=\"paste-ca49f5d93f28e08851d19b70e013e16920b9f7aa.jpg\">"
             ],
             "guid": "bBm{eS+rQV",
@@ -1032,7 +1032,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Geteilt für eine belibige kompelxe Zahl",
+                "Geteilt für eine beliebige komplexe Zahl&nbsp;",
                 "<img src=\"paste-df999f85e86b484120ad719f8ddcb5f7396659e0.jpg\">"
             ],
             "guid": "F/$W={W**X",
@@ -1042,7 +1042,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie kann ich das Rechnen?",
+                "Wie kann ich das Rechnen?&nbsp;",
                 "<img src=\"paste-3ccb8a4126168ef5dd5753763e383966920fb478.jpg\">"
             ],
             "guid": "tNzuTbv*^`",
@@ -1052,7 +1052,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Komplexe Zahlen in der Zahlenebene",
+                "Komplexe Zahlen in der Zahlenebene&nbsp;",
                 "<img src=\"paste-6dc5ff530e959e9e87305044795ab5c59adc2189.jpg\">"
             ],
             "guid": "vMApWLjBOO",
@@ -1062,7 +1062,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Betrag der komplexen Zahlen",
+                "Betrag der komplexen Zahlen&nbsp;",
                 "<img src=\"paste-ea20937d7fe991289fe8fe69778920e013b3d6ab.jpg\">"
             ],
             "guid": "M*T2*]!1&9",
@@ -1072,7 +1072,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Ergebnis für x²+1=0",
+                "Ergebnis für x²+1=0&nbsp;",
                 "+-i"
             ],
             "guid": "pjajw(uZ=e",
@@ -1082,7 +1082,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Ergebnis für x² +9 = 0",
+                "Ergebnis für x² +9 = 0&nbsp;",
                 "<ul><li>Wurzel -9</li><li>3i</li></ul>"
             ],
             "guid": "A}dDnb+9Vu",
@@ -1092,7 +1092,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie berechnen wir tan komplexe Zahlen?",
+                "Wie berechnen wir tan komplexe Zahlen?&nbsp;",
                 "<img src=\"paste-125bb0f04ab68e23c523323b3debc2bf5016fc90.jpg\">"
             ],
             "guid": "F96eX4#.=/",
@@ -1102,7 +1102,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Trigonometrische Form komplexe Zahlen",
+                "Trigonometrische Form komplexe Zahlen&nbsp;",
                 "<img src=\"paste-63c1f00c8573d65628f3f48fbf2755f5d9cf5ca8.jpg\">"
             ],
             "guid": "jfn$UGm@=k",
@@ -1112,7 +1112,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Komplexe Zahlen Cosinus",
+                "Komplexe Zahlen Cosinus&nbsp;",
                 "<img src=\"paste-3ab8fdc3fa1e1f5b950444030fc9ec94f1f1d55a.jpg\">"
             ],
             "guid": "l|}}N,C6^q",
@@ -1122,7 +1122,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Komplexe Zahlen sinus",
+                "Komplexe Zahlen Sinus&nbsp;",
                 "<img src=\"paste-595709afcc67c0a923f3c04bbde999e87d8d77e8.jpg\">"
             ],
             "guid": "j:bAYt(y^P",
@@ -1132,7 +1132,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Komplexe Zahlen a berechnen (mit sinus/cosins....)",
+                "Komplexe Zahlen a berechnen (mit sinus/cosins....)&nbsp;",
                 "<img src=\"paste-6e93ba35b61fa70868fb62c3e650f2a289979d9b.jpg\">"
             ],
             "guid": "F.[E*L-O+>",
@@ -1142,8 +1142,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Komplexe Zahlen b berechnen (mit sinus/cosins....)",
-                "<img src=\"paste-3bb6fc6f441e4c45ea6d7d5d7160c4f7e13f4d1d.jpg\">"
+                "Komplexe Zahlen b berechnen (mit sinus/cosins....)&nbsp;",
+                "<img src=\"paste-3bb6fc6f441e4c45ea6d7d5d7160c4f7e13f4d1d.jpg\">&nbsp;"
             ],
             "guid": "hd5<o%&d}.",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -1152,7 +1152,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Tangenz berechnung: falls a &gt;0 und b &gt;= 0",
+                "Tangenz Berechnung: falls a &gt;0 und b &gt;= 0&nbsp;",
                 "<img src=\"paste-470f052be5c300e0e0a56181b8581abea69ac089.jpg\">"
             ],
             "guid": "v<Iz00nG5j",
@@ -1162,7 +1162,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Tangenz berechnung: falls a &gt;0 und b &lt; 0",
+                "Tangenz Berechnung: falls a &gt;0 und b &lt; 0&nbsp;",
                 "<img src=\"paste-558bf34114e27a914599bf38a0d646cf971f59eb.jpg\">"
             ],
             "guid": "e!>1u4:2fS",
@@ -1172,7 +1172,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Tangenz berechnung: falls a &lt;0",
+                "Tangenz Berechnung: falls a &lt;0&nbsp;",
                 "<img src=\"paste-0fd914fac80f75a8b3ea4cac1a8c8e2b556fd220.jpg\">"
             ],
             "guid": "b;m7V`fE#K",
@@ -1182,7 +1182,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Tangenz berechnung: falls a = 0 und b &gt; 0",
+                "Tangenz Berechnung: falls a = 0 und b &gt; 0&nbsp;",
                 "90"
             ],
             "guid": "JHGx(C0UG4",
@@ -1192,7 +1192,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Tangenz berechnung: falls a = 0 und b &lt; 0",
+                "Tangenz Berechnung: falls a = 0 und b &lt; 0&nbsp;",
                 "270"
             ],
             "guid": "wEa&)wd8uo",
@@ -1202,7 +1202,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Tangenz berechnung: falls a = 0 und b = 0",
+                "Tangenz Berechnung: falls a = 0 und b = 0&nbsp;",
                 "0"
             ],
             "guid": "OOH-eQ0jJT",
@@ -1212,7 +1212,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Vollstände Induktion Schritte",
+                "Vollständige Induktion Schritte&nbsp;",
                 "<ul><li>Induktionsanfang</li><li>Induktionsannahme</li><li>Induktionsschluss</li></ul>"
             ],
             "guid": "em$<paWJrp",
@@ -1222,8 +1222,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Induktionsanfang",
-                "Die Aussage muss für n = n0 gezeigt werden<br><br>no ist der Erste Punkt für den die Aussage gilt"
+                "Induktionsanfang&nbsp;",
+                "Die Aussage muss für n = n0 gezeigt werden<br><br>no ist der Erste Punkt für den die Aussage gilt&nbsp;"
             ],
             "guid": "N-=~@kMGcM",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -1232,8 +1232,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Induktionsannahme",
-                "Es wird angenommen, dass die Aussage für eine natürliche Zahl n mit n &gt;= n0 gilt"
+                "Induktionsannahme&nbsp;",
+                "Es wird angenommen, dass die Aussage für eine natürliche Zahl n mit n &gt;= n0 gilt&nbsp;"
             ],
             "guid": "B.~Y/mXcp2",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -1242,8 +1242,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Induktionsschluss",
-                "Unter dieser Annahme ist zu zeigen, dass die Aussage dann auch für n +1 gilt"
+                "Induktionsschluss&nbsp;",
+                "Unter dieser Annahme ist zu zeigen, dass die Aussage dann auch für n +1 gilt&nbsp;"
             ],
             "guid": "BSjw.?qmW2",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -1252,7 +1252,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wo gilt die Vollstände Induktion",
+                "Wo gilt die Vollständige Induktion&nbsp;",
                 "Gilt nur für natürliche Zahlen"
             ],
             "guid": "Qpl0g$Np-X",
@@ -1262,8 +1262,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was müssen Gleichungen sein, das sie lösbar sind?",
-                "Linear Unabhängig"
+                "Was müssen Gleichungen sein, das sie lösbar sind?&nbsp;",
+                "Linear Unabhängig&nbsp;"
             ],
             "guid": "Kj>4PK<<Q,",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -1272,8 +1272,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Sind diese Gleichungen Linear?<br><img src=\"paste-f3b4825fa18187befd72a0be1f04f4ca9b4382b7.jpg\">",
-                "Ja"
+                "Sind diese Gleichungen Linear?&nbsp;<br><img src=\"paste-f3b4825fa18187befd72a0be1f04f4ca9b4382b7.jpg\">",
+                "Ja&nbsp;"
             ],
             "guid": "GJM=i3f|k-",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -1282,7 +1282,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Sind diese Gleichungen Linear<br><img src=\"paste-f24886a11f7edcd13a570c745e4a9df37ca467b1.jpg\">",
+                "Sind diese Gleichungen Linear<br><img src=\"paste-f24886a11f7edcd13a570c745e4a9df37ca467b1.jpg\">&nbsp;",
                 "<img src=\"paste-6e65b059c95c07f2fbe1968a105bda9f48f31c45.jpg\">"
             ],
             "guid": "Q(L<pcHF:C",
@@ -1292,7 +1292,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Welche Möglichkeiten gibt es um Gleichungen zu Lösen?",
+                "Welche Möglichkeiten gibt es um Gleichungen zu Lösen?&nbsp;",
                 "<ul><li>lösbar</li><li>nicht eindeutig lösbar</li><li>nicht lösbar</li></ul>"
             ],
             "guid": "vF+2wg%;,z",
@@ -1302,8 +1302,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was sind zulässige Umformungen eines Linearen Gleichungsystems?",
-                "<ul><li>Vertauschung zweier Zeilen</li><li>Multiplikation einer Zeile mit einer von 0 verschiedenen Zahl</li><li>Addition einer Zeile auf eine andere Zeile</li></ul>"
+                "Was sind zulässige Umformungen eines Linearen Gleichungssystems?",
+                "<ul><li>Vertauschung zweier Zeilen</li><li>Multiplikation einer Zeile mit einer von 0 verschiedenen Zahl</li><li>Addition einer Zeile auf eine andere Zeile&nbsp;</li></ul>"
             ],
             "guid": "Pc:]?p>0D`",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -1312,7 +1312,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was sollte man im Gauß Verfahren unbedingt vermeiden",
+                "Was sollte man im Gauß Verfahren unbedingt vermeiden&nbsp;",
                 "Brüche"
             ],
             "guid": "tAZmUmUYWV",
@@ -1322,7 +1322,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wann ist ein Gauß Gleichungssystem eindeutig lösbar?",
+                "Wann ist ein Gauß Gleichungssystem eindeutig lösbar?&nbsp;",
                 "Wenn es so aussieht:<br><img src=\"paste-b10664cfd1bb3ed70a605ed12a4900f14d7822cd.jpg\">"
             ],
             "guid": "G&xYTA^cWV",
@@ -1332,8 +1332,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Ist dieses Gleichungssystem lösbar?<br><img src=\"paste-90982be9197187760d45d07b48df33fa92fe4c21.jpg\">",
-                "Es ist nicht eindeutig lösbar<br>Es hat unendlich viele Lösungen"
+                "Ist dieses Gleichungssystem lösbar?<br><img src=\"paste-90982be9197187760d45d07b48df33fa92fe4c21.jpg\">&nbsp;",
+                "Es ist nicht eindeutig lösbar<br>Es hat unendlich viele Lösungen&nbsp;"
             ],
             "guid": "NWS$EP<nO|",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -1342,8 +1342,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Ist dieses Gleichungssystem Lösbar?<br><img src=\"paste-1631304297dfcaa2b44b4a80355b7edfb90941c1.jpg\">",
-                "Es gibt keine Lösung"
+                "Ist dieses Gleichungssystem Lösbar?<br><img src=\"paste-1631304297dfcaa2b44b4a80355b7edfb90941c1.jpg\">&nbsp;",
+                "Es gibt keine Lösung&nbsp;"
             ],
             "guid": "2KXocnT~S",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -1352,7 +1352,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie wird eine Linearkombination erstellt?",
+                "Wie wird eine Linearkombination erstellt?&nbsp;",
                 "<img src=\"paste-7c1ec044515fa2260ed3f72eedd7c10452a47cbc.jpg\"><br><br>"
             ],
             "guid": "C5@xI7:XWi",
@@ -1362,8 +1362,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wann sind Vektoren Linear unabhängig?",
-                "Wenn die einzige Möglichkeit den Null Vektor zu bestimmen, darin besteht&nbsp;<br><img src=\"paste-84ce38bccfac51edf26890dfed77d11100f0077e.jpg\">"
+                "Wann sind Vektoren Linear unabhängig?&nbsp;",
+                "Wenn die einzige Möglichkeit den Null Vektor zu bestimmen, darin besteht&nbsp;&nbsp;<br><img src=\"paste-84ce38bccfac51edf26890dfed77d11100f0077e.jpg\">"
             ],
             "guid": "btL2cGo<g7",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -1372,8 +1372,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wann sind Vektoren Linear abhängig?",
-                "Wenn, um den Nullvektor als Linearkombination darzustellen nicht alle Mengen als 0 deklarieren muss<br>"
+                "Wann sind Vektoren Linear abhängig?&nbsp;",
+                "Wenn, um den Nullvektor als Linearkombination darzustellen nicht alle Mengen als 0 deklarieren muss&nbsp;<br>"
             ],
             "guid": "n7)xIwp`[V",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -1382,8 +1382,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was ist wenn die Anzahl k der Vektoren größer als Dimension n ist?",
-                "Vektoren sind stets linear abhängig<br>"
+                "Was ist wenn die Anzahl k der Vektoren größer als Dimension n ist?&nbsp;",
+                "Vektoren sind stets linear abhängig&nbsp;<br>"
             ],
             "guid": "K`}-{53{:s",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -1392,8 +1392,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Kann man Vektoren dividiren",
-                "Nein!"
+                "Kann man Vektoren dividieren&nbsp;",
+                "Nein!&nbsp;"
             ],
             "guid": "b|DoN{NZRW",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -1402,8 +1402,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie nennt man eine Matrix wenn m = n?",
-                "quadratische Matrix"
+                "Wie nennt man eine Matrix wenn m = n?&nbsp;",
+                "quadratische Matrix&nbsp;"
             ],
             "guid": "ur1&UV|oc^",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -1412,8 +1412,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie heißt m bei einer Matrix?",
-                "Zeilen"
+                "Wie heißt m bei einer Matrix?&nbsp;",
+                "Zeilen&nbsp;"
             ],
             "guid": "i}3iKj`4-V",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -1422,8 +1422,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie heißt n bei einer Matrix?",
-                "Spalte"
+                "Wie heißt n bei einer Matrix?&nbsp;",
+                "Spalte&nbsp;"
             ],
             "guid": "Io1w3Mh;)5",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -1432,8 +1432,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie schreibt man eine Matrix? (m und n)",
-                "(m x n)-Matrix"
+                "Wie schreibt man eine Matrix? (m und n)&nbsp;",
+                "(m x n)-Matrix&nbsp;"
             ],
             "guid": "khHa/O<Ddo",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -1442,7 +1442,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie bildet man die Summe zweier Matrixen?",
+                "Wie bildet man die Summe zweier Matrizen?&nbsp;",
                 "<img src=\"paste-302b795d7a11970a323d4cb9ed749a8172fb4efb.jpg\">"
             ],
             "guid": "zIP?)<Of}2",
@@ -1452,7 +1452,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Multiplikation von Matrizen?",
+                "Multiplikation von Matrizen?&nbsp;",
                 "<img src=\"paste-4971bfad9d6cbff11706806c915196a81b185ef3.jpg\"><br><br>-&gt; 1*1 + 4*-2 + 2* 0"
             ],
             "guid": "KgNRfIjCo1",
@@ -1462,7 +1462,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wann funktioniert eine Multiplikation",
+                "Wann funktioniert eine Multiplikation&nbsp;",
                 "Wenn das n der ersten Matrix und das m der zweiten Matrix gleich sind&nbsp;"
             ],
             "guid": "B$Uh8WNVS0",
@@ -1472,7 +1472,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Matritzenprodukt: Was Ist A *B = B*A?",
+                "Matritzenprodukt: Was Ist A *B = B*A?&nbsp;",
                 "Nein"
             ],
             "guid": "hFmc*qteqT",
@@ -1482,7 +1482,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wann heißt eine quadratische Matix symmetrisch",
+                "Wann heißt eine quadratische Matrix symmetrisch&nbsp;",
                 "<img src=\"paste-f28ba570d4f5396812d57d26b4a7bbc23508d8e8.jpg\">"
             ],
             "guid": "vPUF{$Pe5Q",
@@ -1492,7 +1492,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Wie kann man eine transportierte Matrix erstellen?",
+                "Wie kann man eine transportierte Matrix erstellen?&nbsp;",
                 "<img src=\"paste-32316a3ae9edad55f9c23a013c5c92fe7a16a553.jpg\">"
             ],
             "guid": "g~Ny)(l&[[",
@@ -1502,7 +1502,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was sind&nbsp;<img src=\"paste-5d24de5c150ed33e57fc46c46d41b9c3cd5318f1.jpg\">&nbsp;wenn A eine quadratische Matrix ist?",
+                "Was sind&nbsp;<img src=\"paste-5d24de5c150ed33e57fc46c46d41b9c3cd5318f1.jpg\">&nbsp;wenn A eine quadratische Matrix ist?&nbsp;",
                 "S1"
             ],
             "guid": "y2X3@7Q}W.",
@@ -1512,7 +1512,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Was sind&nbsp;<img src=\"paste-3e3cb7e038a77a7cfcdd92fca9d97ad9a736aa7f.jpg\">wenn A eine quadratische Matrix ist?",
+                "Was sind&nbsp;<img src=\"paste-3e3cb7e038a77a7cfcdd92fca9d97ad9a736aa7f.jpg\">wenn A eine quadratische Matrix ist?&nbsp;",
                 "S2"
             ],
             "guid": "xK}Xpw7)rn",
